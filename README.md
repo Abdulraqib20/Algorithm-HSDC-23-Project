@@ -1,7 +1,7 @@
 # Algorithm-HSDC-23-Project
 Here is the proposed solution to the "Prediction of customer personality analysis" problem
 
-## Context
+## Context.
 ### Problem Statement
 Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
 
