@@ -47,3 +47,36 @@ Customer personality analysis helps a business to modify its product based on it
 
 ## Target
 Need to perform clustering to summarize customer segments.
+
+## Conclusions
+- Most customers didn't make a complaint in the last two years.
+- Most customers have a single dependent/child in their household.
+- Most customers made purchases via the Store.
+- Most customers enrolled between 20 and 25 months ago
+- Majority of the customers have partners.
+- Majority of the customers have been Graduates.
+- Majority of the customers are parents.
+- Customers that didn't respond to campaigns are the majority.
+- The earliest enrollments in the business were by customers aged 48.
+- The total amount spent is highly correlated with customers income and the total purchases they made.
+- The highest spending age groups are between 40–60
+- Of the three metrics we used to evaluate the model, two of them(majority) suggested 2 clusters.
+- Customers with no dependents/children have been the highest spenders.
+
+## Business Insights
+- To address the reluctance of customers in accepting the campaigns and encourage higher participation rates, tailor the campaign offers specifically to the preferences and needs of customers in cluster 1.
+- To address the challenges of low income and low spending among customers in Cluster 1,  develop affordable and cost-effective products that cater to the budget constraints and you can also implement programs that provide incentives if they repeatedly buy a product more than once which will allow the, to continue engaging with the business even with their low income.
+- The preferences, priorities, and purchasing behaviors of older customers in Cluster 0 may differ from those of the younger customers in Cluster 1 hence the need to consider age-related factors when developing new products or enhancing existing ones. 
+- Given that the majority of customers make purchases from the stores, it is crucial to maintain a strong presence and optimize the in-store experience and while fewer customers make purchases online, it highlights the potential for growth in the e-commerce channel hence the business should focus on improving website usability.
+
+## Project Documentation
+The project was documented in a detailed article on Medium. Check the article [here.](https://medium.com/@abdulraqibshakir03/unveiling-customer-insights-unsupervised-learning-for-dynamic-segmentation-5ec1fd66f1a?source=user_profile---------2----------------------------)
+
+## Contributing
+The following individuals were key to the successful completion of the project:
+- Abdulraqib Omotosho (Project Lead)
+- Elizabeth Abodunrin (Assistant Project Lead)
+- David Udosen (Query Analyst)
+- And other members of the Algorithm group of the Hamoye Data Science Internship of the '23 cohort
+
+
